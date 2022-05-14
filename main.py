@@ -171,6 +171,6 @@ with st.echo(code_location='below'):
     '''
     Data sources:
     1). http://www.cepii.fr/CEPII/en/
-    2). https://databank.worldbank.org/home.aspx (Dataset^ World Development Indicators).
+    2). https://databank.worldbank.org/home.aspx (Dataset: World Development Indicators).
     '''
 
