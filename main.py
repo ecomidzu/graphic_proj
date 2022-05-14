@@ -168,5 +168,9 @@ with st.echo(code_location='below'):
     ### FROM: "https://gist.github.com/ischurov/fb00906c5704ebdd56ff13d7e02583e4"
     components.html(animation.to_jshtml(), height=1000)
     ### END FROM
-    animation.save('animation.gif')
+    '''
+    Data sources:
+    1). http://www.cepii.fr/CEPII/en/
+    2). https://databank.worldbank.org/home.aspx (Dataset^ World Development Indicators).
+    '''
 
